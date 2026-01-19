@@ -1,6 +1,6 @@
 
 export default {
-  basePath: 'im_lab',
+  basePath: '/im_lab',
   supportedLocales: {
   "en-US": ""
 },

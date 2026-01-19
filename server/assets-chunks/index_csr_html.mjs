@@ -3,7 +3,7 @@ export default `<!doctype html>
 <head>
   <meta charset="utf-8">
   <title>LabManagementApp</title>
-  <base href="im_lab">
+  <base href="/im_lab/">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" type="image/x-icon" href="favicon.ico">
 <link rel="stylesheet" href="styles-5INURTSO.css"></head>
